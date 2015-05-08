@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cartagena2.Card">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cartagena2.CartagenaBoard">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAIAgAAAAAAAAAAAAAACABAAAA=</HashCode>
+      <FileName>CartagenaBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cartagena2.Cartegana">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAACAAAgAAAAAAAAAAAQAIQAAAACAAIA=</HashCode>
+      <FileName>Cartegana.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cartagena2.Drive">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cartagena2.Pirate">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAABAAAAAAAACAAAAEAAAAAgA=</HashCode>
+      <FileName>Pirate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cartagena2.Player">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAgAAAAAAAAAAASAAAAAAAAAAKA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
