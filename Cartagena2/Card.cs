@@ -7,17 +7,14 @@ namespace Cartagena2
 {
     class Card
     {
-        public int id;
+        private string cardName;
         public string CardName
         {
-            get { return CardName; }
-            set { CardName = value; }
+            get { return cardName; }
+            set { cardName = value; }
         }
-        public string toString() {
-            string[] kartlar = new string[] { "pistol", "sword", "key", "cap", "bottle", "flag" };
 
-            return kartlar[id];
-        }
+
 
     }
 }

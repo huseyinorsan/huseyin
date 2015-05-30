@@ -1,0 +1,35 @@
+D:\Visual Studio 2010\Projects\Cartagena2\Cartagena2\bin\Debug\Cartagena2.exe
+D:\Visual Studio 2010\Projects\Cartagena2\Cartagena2\bin\Debug\Cartagena2.pdb
+D:\Visual Studio 2010\Projects\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.Form1.resources
+D:\Visual Studio 2010\Projects\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.exe
+D:\Visual Studio 2010\Projects\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.pdb
+D:\Visual Studio 2010\Projects\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.exe
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.pdb
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\bin\Debug\Cartagena2.exe
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\bin\Debug\Cartagena2.pdb
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.Form1.resources
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.Form2.resources
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.Properties.Resources.resources
+C:\Users\BAHADIRK\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.csproj.GenerateResource.Cache
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.exe
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.pdb
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\bin\Debug\Cartagena2.exe
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\bin\Debug\Cartagena2.pdb
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.csprojResolveAssemblyReference.cache
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.Form1.resources
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.Form2.resources
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.Properties.Resources.resources
+C:\Users\huseyinor\Desktop\Cartagena2\Cartagena2\obj\x86\Debug\Cartagena2.csproj.GenerateResource.Cache
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\obj\x86\Debug\Cartagena2.exe
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\obj\x86\Debug\Cartagena2.pdb
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\obj\x86\Debug\Cartagena2.csprojResolveAssemblyReference.cache
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\obj\x86\Debug\Cartagena2.Form1.resources
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\obj\x86\Debug\Cartagena2.Form2.resources
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\obj\x86\Debug\Cartagena2.Properties.Resources.resources
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\obj\x86\Debug\Cartagena2.csproj.GenerateResource.Cache
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\bin\Debug\Cartagena2.exe
+C:\Users\huseyinor\Desktop\Cartagena2_2\Cartagena2\bin\Debug\Cartagena2.pdb

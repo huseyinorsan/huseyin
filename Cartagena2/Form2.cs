@@ -34,33 +34,21 @@ namespace Cartagena2
         private void button2_Click(object sender, EventArgs e)
         {
 
-            //newgame = Cartegana.getInstance();
-            //newgame = Cartegana.getInstance();
-            //newgame = Cartegana.getInstance();
-            //newgame = Cartegana.getInstance();
 
-            Cartegana.getInstance().board.BoxsClean(this);
-            Cartegana.getInstance().board.NewBoard(this);
+            CartagenaBoard.getInstance().BoxsClean(this);
+            CartagenaBoard.getInstance().NewBoard(this);
 
-            Cartegana.getInstance().pirates[0].performMove();
-
-            Card Card = new Card();
-            for (int h = 0; h < 102; h++) // dogru mu kontrol için...
-            {
-                CartagenaBoard.Kartdeste[1].ToString();
-                //Card.id = int.Parse(CartagenaBoard.Kartdeste[h]);
-                Card.id = int.Parse(CartagenaBoard.Kartdeste[h].ToString());
-              //  listBox1.Items.Add(CartagenaBoard.Kartdeste[h].ToString() + " " + Card.toString());
-            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Cartegana.getInstance().pirates[0].setPirateMoveBehavior(new movePirateBackwards());
-            Cartegana.getInstance().pirates[0].performMove();
+            CartagenaBoard.getInstance().player1.pirates[0].setPirateMoveBehavior(new movePirateBackwards());
+            CartagenaBoard.getInstance().player1.pirates[0].performMove(this,"aa");
+        }
 
-            Cartegana.getInstance().pirates[0].setPirateMoveBehavior(new movePirateForward());
-            Cartegana.getInstance().pirates[0].performMove();
+        private void Form2_MouseClick(object sender, MouseEventArgs e)
+        {
+
         }
 
 

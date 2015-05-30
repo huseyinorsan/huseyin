@@ -2,26 +2,27 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Windows.Forms;
 
 namespace Cartagena2
 {
     class Pirate
     {
 
-        movePirate movePirateBehavior = new movePirateBackwards();
+        moveBehavior movePirateBehavior;
 
-        public void setPirateMoveBehavior(movePirate moveBehavior)
+        public void setPirateMoveBehavior(moveBehavior moveBehavior)
         {
             movePirateBehavior = moveBehavior;
         }
 
-        public void performMove()
+        public void performMove(Form form, string piratename)
         {
-            movePirateBehavior.move();
+            movePirateBehavior.move(form, piratename);
         }
 
         private int id;
-        private int color;
+        public string color;
 
     }
 }
